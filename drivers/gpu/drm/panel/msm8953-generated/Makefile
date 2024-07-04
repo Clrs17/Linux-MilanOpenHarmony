@@ -1,0 +1,9 @@
+obj-$(CONFIG_DRM_PANEL_HUAWEI_BOE_OTM1906C_5P5_1080P_CMD) += panel-huawei-boe_otm1906c_5p5_1080p_cmd.o
+obj-$(CONFIG_DRM_PANEL_HUAWEI_BOE_TD4322_5P5_1080P_CMD) += panel-huawei-boe_td4322_5p5_1080p_cmd.o
+obj-$(CONFIG_DRM_PANEL_HUAWEI_BOE_TEST1906C_5P5_1080P_CMD) += panel-huawei-boe_test1906c_5p5_1080p_cmd.o
+obj-$(CONFIG_DRM_PANEL_HUAWEI_CTC_NT35596S_5P5_1080P_VIDEO) += panel-huawei-ctc_nt35596s_5p5_1080p_video.o
+obj-$(CONFIG_DRM_PANEL_HUAWEI_CTC_OTM1906C_5P5_1080P_CMD) += panel-huawei-ctc_otm1906c_5p5_1080p_cmd.o
+obj-$(CONFIG_DRM_PANEL_HUAWEI_JDI_R63452_5P5_1080P_CMD) += panel-huawei-jdi_r63452_5p5_1080p_cmd.o
+obj-$(CONFIG_DRM_PANEL_HUAWEI_TIANMA_FIC8736_5P5_1080P_CMD) += panel-huawei-tianma_fic8736_5p5_1080p_cmd.o
+obj-$(CONFIG_DRM_PANEL_HUAWEI_TIANMA_FOCAL8716_5P5_1080P_VIDEO) += panel-huawei-tianma_focal8716_5p5_1080p_video.o
+obj-$(CONFIG_DRM_PANEL_HUAWEI_TIANMA_OTM1906C_5P5_1080P_CMD) += panel-huawei-tianma_otm1906c_5p5_1080p_cmd.o
